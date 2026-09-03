@@ -1,0 +1,6 @@
+{
+  "name": "AZRYL AI",
+  "description": "AI Assistant cerdas azrylasissten oleh developer AZRYL dengan dukungan model Grok/xAI",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
